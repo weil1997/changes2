@@ -3,6 +3,7 @@ import spotify from "../assets/spotify-bild.jpg";
 import kanban from "../assets/kanban-bild.jpg";
 import klarna from "../assets/klarna-bild.jpg";
 import advice from "../assets/advice-bild.jpg";
+import agecalculator from "../assets/agecalculator.jpg";
 
 const Projects = () => {
   const Portfolios = [
@@ -25,6 +26,11 @@ const Projects = () => {
       id: 4,
       src: advice,
       link: "https://endearing-custard-8c166b.netlify.app",
+    },
+    {
+      id: 5,
+      src: agecalculator,
+      link: "https://jazzy-pavlova-e39f67.netlify.app",
     },
   ];
 
