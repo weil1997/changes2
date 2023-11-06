@@ -41,12 +41,12 @@ const Projects = () => {
       link: "https://extraordinary-tarsier-c52ad2.netlify.app",
     },
     {
-      id: 5,
+      id: 7,
       src: starrating,
       link: "https://rad-queijadas-6edac1.netlify.app",
     },
     {
-      id: 5,
+      id: 8,
       src: restaurantpage,
       link: "https://helpful-licorice-c6a0c5.netlify.app",
     },
