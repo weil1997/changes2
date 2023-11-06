@@ -4,6 +4,9 @@ import kanban from "../assets/kanban-bild.jpg";
 import klarna from "../assets/klarna-bild.jpg";
 import advice from "../assets/advice-bild.jpg";
 import agecalculator from "../assets/agecalculator.jpg";
+import subscriptionplan from "../assets/subscription-bild.jpg";
+import starrating from "../assets/starrating-bild.jpg";
+import restaurantpage from "../assets/restaurant-bild.jpg";
 
 const Projects = () => {
   const Portfolios = [
@@ -31,6 +34,21 @@ const Projects = () => {
       id: 5,
       src: agecalculator,
       link: "https://jazzy-pavlova-e39f67.netlify.app",
+    },
+    {
+      id: 6,
+      src: subscriptionplan,
+      link: "https://extraordinary-tarsier-c52ad2.netlify.app",
+    },
+    {
+      id: 5,
+      src: starrating,
+      link: "https://rad-queijadas-6edac1.netlify.app",
+    },
+    {
+      id: 5,
+      src: restaurantpage,
+      link: "https://helpful-licorice-c6a0c5.netlify.app",
     },
   ];
 
